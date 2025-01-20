@@ -24,6 +24,6 @@ int main(){
             break;
         }
     }
-    printf("%d is repeated %d times",temp,count);
+    printf("%d is rep %d times",temp,count);
     return 0;
 }
